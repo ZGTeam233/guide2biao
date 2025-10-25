@@ -6,11 +6,12 @@
 2.  在res.old目录寻找过往资源和图文。
 3.  This project only suit for zh-CN. So there is only ChinSimp and no English. 
 4.  本期为EP01 WINE for Huawei。
+![pic](/images/01-1.png)
 
 #### 准备工作
 -  ~~如nvidia一样，fxxk you，hw。米OV，yes。~~
--  可以观看这个视频，可以倍速[神级开源软件，让我的手机平板一键变电脑](https://www.bilibili.com/video/BV1kPDnYbEZe)。
--  下载。
+-  可以观看这个视频，可以倍速 [神级开源软件，让我的手机平板一键变电脑](https://www.bilibili.com/video/BV1kPDnYbEZe)。
+-  下载 [资源，虽然只有一个软件](https://pan.huang1111.cn/s/A6vqvTB)。
 
 #### 安装安卓（虚拟机）
 1.  应用商城下载 **VMOS Pro**。
