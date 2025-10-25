@@ -6,7 +6,7 @@
 2.  在res.old目录寻找过往资源和图文。
 3.  This project only suit for zh-CN. So there is only ChinSimp and no English. 
 4.  本期为EP01 WINE for Huawei。
-![pic](/images/01-1.png)
+-   ![pic](/images/01-1.png)
 
 #### 准备工作
 -  ~~如nvidia一样，fxxk you，hw。米OV，yes。~~
