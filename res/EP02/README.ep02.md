@@ -48,7 +48,7 @@ password
 ![pic](/images/014.png)
 -   系统：调节路由器系统设置（**警告**，****请勿调整关键设置如时间**）
 -   管理权：调节系统用户设置（**严重警告**，**请勿调整任何设置**，**严重会使路由器损坏**）
--   [ttyd终端：见此，点击访问](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/README.ep02.md#ttyd终端，系统)
+-   [ttyd终端：见此，点击访问](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/README.ep02.md#ttyd%E7%BB%88%E7%AB%AF%E7%B3%BB%E7%BB%9F)
 
 #### ttyd终端，系统
 ![pic](/images/015.png)
