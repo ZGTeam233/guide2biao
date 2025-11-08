@@ -7,7 +7,7 @@
 
 #### 目次（点击蓝字进入）
 -   [EP2 - 路由设置指南（第一弹）](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/README.ep02.md)
--   [EP1 - WINE for Huawei](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/README.ep01.md)
+-   [EP1 - WINE for Huawei](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/README.ep01.md)(想找模拟器？点这里)
 
 #### 题外话，关于主题
 -   准备发行商标，logo，背景图，三者均为PNG。
