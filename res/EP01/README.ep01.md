@@ -1,15 +1,7 @@
-# guide2biao
--   这是一个技术入门手册
-
-#### 部分文档源码展示
--   ![pic](/images/01-7.png)
-
-#### 开始之前
-1.  ~~鸣谢某人，you know who。~~
-2.  在res.old目录寻找过往资源和图文。
-3.  This project only suit for zh-CN. So there is only ChinSimp and no English. 
-4.  本期为EP01 WINE for Huawei。
--   ![pic](/images/01-1.png)
+# EP01
+-   [回到首页](https://gitee.com/zgteam233/guide2biao)。
+-   ~~鸣谢某人，you know who。~~
+-   本期为EP01 WINE for Huawei
 
 #### 准备工作
 -  ~~如nvidia一样，fxxk you，hw。米OV，yes。~~
