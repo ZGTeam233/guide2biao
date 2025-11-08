@@ -1,5 +1,5 @@
 # EP01
--   [回到首页](https://gitee.com/zgteam233/guide2biao)。
+-   [点此回到首页](https://gitee.com/zgteam233/guide2biao)
 -   ~~鸣谢某人，you know who。~~
 -   本期为EP01 WINE for Huawei
 
