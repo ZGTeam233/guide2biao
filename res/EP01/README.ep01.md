@@ -5,8 +5,8 @@
 
 #### 准备工作
 -  ~~如nvidia一样，fxxk you，hw。米OV，yes。~~
--  可以观看这个视频，可以倍速 [神级开源软件，让我的手机平板一键变电脑](https://www.bilibili.com/video/BV1kPDnYbEZe)。
--  下载 [资源，虽然只有一个软件](https://pan.huang1111.cn/s/A6vqvTB)。
+-  [可以倍速观看这个视频，“让手机平板一键变电脑”](https://www.bilibili.com/video/BV1kPDnYbEZe)。
+-  [点此下载资源，虽然只有一个软件](https://pan.huang1111.cn/s/A6vqvTB)。
 
 #### 安装安卓（虚拟机）
 1.  应用商城下载 **VMOS Pro**，VMOS Pro的官网如下图，不要下错了。
