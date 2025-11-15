@@ -1,4 +1,5 @@
 # 通用教程
+-   [点此返回](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/README.ep01.md)
 -   该教程适合任何安卓手机及虚拟机
 -   你应该是从华为安装安卓虚拟机后跳转来的
 
