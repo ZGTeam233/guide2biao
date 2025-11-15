@@ -9,6 +9,9 @@
 -   [EP02 - 路由设置指南（第一弹）](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/README.ep02.md)
 -   [EP01 - WINE for Huawei（想找模拟器？点这里）](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/README.ep01.md)
 
+#### bug反馈
+-   Getee手机版会多显示几个星号，无法修复
+
 #### 题外话，关于主题
 -   准备发行商标，logo，背景图，三者均为PNG。
 -   可选，一段从打开到完全启动的视频，格式为MP4（H.264）
