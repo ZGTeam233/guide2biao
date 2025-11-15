@@ -1,9 +1,9 @@
 # EP01
--   [点此回到首页](https://gitee.com/zgteam233/guide2biao)
+-   [点击蓝字回到首页](https://gitee.com/zgteam233/guide2biao)
 -   ~~鸣谢某人，you know who。~~
 -   本期为EP01 WINE for Huawei
 
-#### 准备工作
+#### 准备工作（点击蓝字进入）
 -  ~~如nvidia一样，fxxk you，hw。米OV，yes。~~
 -  [可以倍速观看这个视频，“让手机平板一键变电脑”](https://www.bilibili.com/video/BV1kPDnYbEZe)。
 -  [点此下载资源，虽然只有一个软件](https://pan.huang1111.cn/s/A6vqvTB)。
@@ -20,7 +20,7 @@
 -   ![pic](/images/005.png)
 
 #### 通用教程
--   [点此进入后文！！！](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/part2.ep01.md)
--   [点此进入后文！！！](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/part2.ep01.md)
--   [点此进入后文！！！](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/part2.ep01.md)
+-   [点击蓝字进入后文！！！](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/part2.ep01.md)
+-   [点击蓝字进入后文！！！](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/part2.ep01.md)
+-   [点击蓝字进入后文！！！](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/part2.ep01.md)
 -   **这三个链接都指向同一篇文章**

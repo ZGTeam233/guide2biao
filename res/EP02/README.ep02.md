@@ -1,5 +1,5 @@
 # EP02
--   [点此回到首页](https://gitee.com/zgteam233/guide2biao)
+-   [点击蓝字回到首页](https://gitee.com/zgteam233/guide2biao)
 -   本期为EP02 路由设置指南（第一弹）
 -   我会以OpenWRT【一个功能最全（没有之一）的路由管理系统】演示
 -   品牌和系统不同，可能导致有些功能缺失
@@ -48,4 +48,4 @@ password
 ![pic](/images/014.png)
 -   系统：调节路由器系统设置（**警告**，****请勿调整关键设置如时间**）
 -   管理权：调节系统用户设置（**严重警告**，**请勿调整任何设置**，**严重会使路由器损坏**）
--   [ttyd终端：见此，点击访问](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/part2.ep02.md)
+-   [ttyd终端：见此，点击蓝字访问](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/part2.ep02.md)

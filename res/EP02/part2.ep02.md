@@ -1,5 +1,5 @@
 # ttyd终端，系统
--   [点此返回](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/README.ep02.md)
+-   [点击蓝字返回](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/README.ep02.md)
 -   内置的终端应用
 -   ![pic](/images/015.png)
 
