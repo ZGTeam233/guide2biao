@@ -15,7 +15,7 @@
 -   **常使用TCP**，大多是游戏常使用UDP
 -   少数如游戏如*Minecraft Java*用TCP
 -   ~~JAVA25都出来了，还没意识到自己最大的受众是MC~~
--   [pic](/images/017.png)
+-   ![pic](/images/017.png)
 
 #### IPv4/v6
 -   **是IPv4和IPv6的合称**
