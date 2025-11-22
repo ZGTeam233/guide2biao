@@ -6,7 +6,7 @@
 4.  这是本项目的文档目录，GitHub暂不支持 
 
 #### 目次（点击蓝字进入）
--   [EP03 - 路由设置指南（网络篇）](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP03/README.ep03.md)
+-   [EP03 - 路由设置指南（网络篇）](/res/EP03/README.ep03.md)
 -   [EP02 - 路由设置指南（系统篇）](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP02/README.ep02.md)
 -   [EP01 - WINE for Huawei（想找模拟器？点这里）](https://gitee.com/zgteam233/guide2biao/blob/main/res/EP01/README.ep01.md)
 
