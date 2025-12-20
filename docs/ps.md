@@ -31,15 +31,23 @@
 #### v3.1
 ![pic](/images/001.png)
 
--   这是一些MC基岩版（国际服）的资源
--   [**推荐**！！！有*安卓安装包/MOD/地图*等，国内高速](https://klpbbs.com)
--   [*国外MOD/材质*等，高质量，**下载慢**](https://mcpedl.com)
--   [下载电脑*原版/教育版*安装包](https://www.mcappx.com)
--   [皮肤，JAVA也可用](https://littleskin.cn)
--   官方89块钱的mc基岩版如图
--   ![pic](/images/018.png)
--   ![pic](/images/019.png)
+这是一些MC基岩版（国际服）的资源
+
+[**推荐**！！！有*安卓安装包/MOD/地图*等，国内高速](https://klpbbs.com)
+
+[*国外MOD/材质*等，高质量，**下载慢**](https://mcpedl.com)
+
+[下载电脑*原版/教育版*安装包](https://www.mcappx.com)
+
+[皮肤，JAVA也可用](https://littleskin.cn)
+
+官方89块钱的mc基岩版如图
+
+![pic](/images/018.png)
+
+![pic](/images/019.png)
 
 #### v3.0，关于主题
--   准备发行商标，logo，背景图，三者均为PNG。
--   可选，一段从打开到完全启动的视频，格式为MP4（H.264）
+准备发行商标，logo，背景图，三者均为PNG。
+
+可选，一段从打开到完全启动的视频，格式为MP4（H.264）
