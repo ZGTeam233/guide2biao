@@ -20,11 +20,12 @@ Copyright(c) 2025 Zilin Zheng
 
 对应的官方app发行为v1.0.0
 
-[官方app当前仅支持gitee，点此下载](https://gitee.com/zgteam233/guide2biao/releases/download/v1.0.0/guide2biao_v1.0.0.apk)
+[官方app当前仅支持Gitee，点此下载](https://gitee.com/zgteam233/guide2biao/releases/download/v1.0.0/guide2biao_v1.0.0.apk)
 
 可根据版本查看更新状况
 
 #### 目次（点击蓝字进入）
+-   [EP04 - 将网页做成安卓app【施工中】](/res/04-1.md)
 -   [EP03 - 路由设置指南（网络篇）【施工中】](/res/03-1.md)
 -   [EP02 - 路由设置指南（系统篇）](/res/02-1.md)
 -   [EP01 - WINE for Huawei（想找模拟器？点这里）](/res/01-1.md)
