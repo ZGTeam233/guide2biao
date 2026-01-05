@@ -1,5 +1,5 @@
 # guide2biao
-这是一个技术入门手册，有时也会更新一些~~小骚话~~题外话
+这是一个技术入门手册，有时也会更新一些 ~~小骚话~~ 题外话
 
 This project only suit to zh-CN. So there is only ChinSimp and no English
 
@@ -13,21 +13,23 @@ Copyright(c) 2025 Zilin Zheng
 
 这是本项目的文档目录
 
-~~GitHub暂不支持~~现已支持Github
+~~GitHub暂不支持~~ 现已支持GitHub
 
 #### 版本提示
-当前版本为v3.2
+当前版本为v3.3
 
 对应的官方app发行为v1.0.0
 
-[官方app当前仅支持Gitee，点此下载](https://gitee.com/zgteam233/guide2biao/releases/download/v1.0.0/guide2biao_v1.0.0.apk)
+***由于一些原因，EP03暂时停更***
+
+[官方app当前仅支持Gitee，点此下载](/source/official/guide2biao_v1.0.0.apk)
 
 可根据版本查看更新状况
 
 #### 目次（点击蓝字进入）
 [EP04 - 将网页做成安卓app【施工中】](/res/04-1.md)
 
-[EP03 - 路由设置指南（网络篇）【施工中】](/res/03-1.md)
+[EP03 - 路由设置指南（网络篇）【停更】](/res/03-1.md)
 
 [EP02 - 路由设置指南（系统篇）](/res/02-1.md)
 
