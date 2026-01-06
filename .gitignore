@@ -1,0 +1,10 @@
+# 忽略 Windows 系统自动生成的文件
+[Dd]esktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+
+# 忽略 macOS 系统自动生成的文件
+.DS_Store
+.AppleDouble
+.LSOverride
