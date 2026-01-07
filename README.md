@@ -5,7 +5,7 @@ This project only suit to zh-CN. So there is only ChinSimp and no English
 
 本项目依据 [GNU General Public License v2.0](/LICENSE) 协议开源
 
-Copyright(c) 2025 Zilin Zheng
+Copyright(c) 2024-2026 Zilin Zheng
 
 我们提供了一份许可证的[中文翻译参考](/docs/trans-cn_GPL2.md)
 
