@@ -1,7 +1,11 @@
-# guide2biao
-这是一个技术入门手册，有时也会更新一些 ~~小骚话~~ 题外话
+注：Git中作者改为真名（Name）
+
+~~ 666还有实名上网~~
 
 This project only suit to zh-CN. So there is only ChinSimp and no English
+
+# guide2biao
+这是一个技术入门手册，有时也会更新一些 ~~小骚话~~ 题外话
 
 本项目依据 [GNU General Public License v2.0](/LICENSE) 协议开源
 
