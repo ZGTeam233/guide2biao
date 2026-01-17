@@ -1,6 +1,4 @@
-注：Git中作者改为真名（Name）
-
-~~ 666还有实名上网~~
+注：Git中作者改为真名（Name），即版权声明里的Zilin Zheng ~~ 666还有实名上网~~
 
 This project only suit to zh-CN. So there is only ChinSimp and no English
 
