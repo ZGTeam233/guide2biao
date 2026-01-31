@@ -1,7 +1,7 @@
 # 资源下载
 
 #### 置顶链接
-[点此下载本网站安卓app - Git](guide2biao_v1.0.0.apk)
+本期无资源下载
 
 #### EP03 将网页做成安卓app
 [网页底包（不要安装）- Git](EP03/demo-appname.apk)
