@@ -23,9 +23,3 @@ Copyright(c) 2024-2026 Zilin Zheng
 ---
 #### 目录
 [题外话一览](res/ps.md)
-
-[EP03 - 将网页做成安卓app](res/EP03/03-1.md)
-
-[EP02 - 优化路由设置？路由设置指南](res/EP02/02-1.md)
-
-[EP01 - 安卓变电脑？手机上Debian](res/EP01/01-1.md)

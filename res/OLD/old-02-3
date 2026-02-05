@@ -1,0 +1,52 @@
+*~`
+
+下为专有名词解释，可以先跳过
+后面这些词都会标蓝
+点击即可跳转入解释
+
+TCP和UDP
+这是两种传输协议
+分别表示按顺序收发 和 保证速率收发
+常使用TCP，大多是游戏常使用UDP
+少数如游戏如Minecraft Java用TCP
+JAVA25都出来了，还没意识到自己最大的受众是MC
+
+IPv4/v6
+是IPv4和IPv6的合称
+
+IPv4形如192.168.31.1，共四段，每段可取10进制0~255
+IPv6形如fe80:0000:0001:0000:0440:44ff:1233:5678，共八段，每段可取16进制0~ffff
+
+MAC地址
+网卡物理地址
+
+形如f3:27:7f:2a:5e:6c，共六段，每段可取16进制0~ff
+是任何网络设备的唯一标识，但是当今设备多可虚拟MAC
+
+VPN
+即虚拟个人网络
+常用于翻墙
+
+br-LAN
+指局域网网桥
+br前缀指Linux Network Bridge（Linux网桥），用于串联网口
+在AP中常将把标为LAN的网口用网桥串联在一个接口上
+网口在此指AP上的实体网口
+接口指AP系统中软件调用的软接口
+后文均以此称呼
+
+WLAN
+指无线局域网，包含WiFi/WAPI/流量/蓝牙等协议
+在AP中常指运用WiFi协议的WLAN
+
+WPA/WPA2/WPA3-PSK
+指一种供个人使用的WiFi开放性的三个不同版本
+WPA-PSK安全性不好，WPA3-PSK兼容性不好
+请按以下顺序选择
+WPA2/WPA3-PSK > WPA/WPA2/WPA3-PSK > WPA2-PSK > WPA/WPA2-PSK > WPA3-PSK > WPA-PSK
+
+AES
+指一种数据加密方式，用于代替TKIP
+加密压缩包就是用AES-256加密
+如果可改加密方式，请按如下提示选择
+AES only > AES/TKIP mixed > TKIP only
