@@ -1,0 +1,46 @@
+本期为 将网页做成安卓app
+请先阅读 协议
+
+PART 1 下载所需app
+从应用商店或官网下载MT管理器
+从Git下载底包，不要安装！！！
+
+附件A 开始前
+MT管理器功能太多怎么被他塞进去的
+仅极少数特别极端的代码开发功能需要vip
+本文（及生活中）只会用到免费版
+文中演示的是终身VIP版好贵，有少数功能不同
+注释：
+1. 在后文中，将目录/storage/emulated/0记作/sdcard
+比如文件/storage/emulated/0/project1/subject.txt可记作/sdcard/project1/subject.txt
+将当前目录记作.
+比如在文件夹/sdcard/project1中
+/sdcard/project1/subject.txt记作./subject.txt
+将上级目录记作..
+比如在文件夹/sdcard/project1中
+文件夹/sdcard/project2可记作../project2
+
+PART 2 准备工作
+1. 打开MT管理器，默认打开/sdcard文件夹
+注：这就是国内大厂所谓的内部存储
+2. 打开Download的文件夹（此时目录为/sdcard/Download），这是app一般下载文件的目录
+3. 找到下载的底包
+4. 点击底包，此时会弹出底包属性界面
+5. 点击右下角查看按钮，此时目录为/sdcard/Download/demo-appname.apk
+
+PART 3 更改 assets
+1. 打开assets文件夹（此时目录为/sdcard/Download/demo-appname.apk/assets）
+2. 打开文件config.json，这时应显示
+
+json
+{"appbar":{"enable":false,"menuEnable":false,"showWebTitle":false,"title":"百度"},"enableProgressBar":false,"hardwareAccelerated":true,"landscape":false,"launchUrl":"https://baidu.com","openAppEnable":true,"pcMode":false,"supportMultipleWindows":false,"theme":{"colorPrimary":"#87CEFA"}}
+
+3. 找到"title":"百度"，将百度字样改为你目标的网站名，比如这个项目“guide2biao”
+4. 找到"launchUrl":"https://baidu.com"，将百度字样改为你目标的网站名，比如这个项目https://github.com/ZGTeam233/guide2biao
+5. 此时应该如图所示
+6. 点击左上角三横，打开侧栏
+7. 点击上方第二个带叉的按钮，选择关闭全部
+8. 保证“不保存内容”的复选框***没有被勾选***
+9. 点击确定，出现这样的框
+10. 保证勾选“自动签名”的复选框，点击确定
+11. 提示默认签名报毒，点击“不再提示”
