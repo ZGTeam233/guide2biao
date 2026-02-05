@@ -8,7 +8,7 @@
 
 本项目依据 [GNU General Public License v3.0](LICENSE) 协议开源
 
-Copyright(c) 2024-2026 Zilin Zheng
+Copyright© 2024-2026 Zilin Zheng
 
 ---
 #### 更新提示
@@ -23,3 +23,19 @@ Copyright(c) 2024-2026 Zilin Zheng
 ---
 #### 目录
 [题外话一览](res/ps.md)
+
+---
+#### 已归档
+还没有翻身的旧文档已归档
+
+详细内容请见下表
+
+[点此查看原EP 03-1](res/OLD/old-03-1)
+
+[点此查看原EP 02-3](res/OLD/old-02-3)
+
+[点此查看原EP 02-2](res/OLD/old-02-2)
+
+[点此查看原EP 02-1](res/OLD/old-02-1)
+
+[点此查看原EP 01-1](res/OLD/old-01-1)
