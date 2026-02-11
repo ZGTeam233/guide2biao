@@ -1,16 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Theme.Demo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_200</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
-        <item name="colorOnPrimary">@color/black</item>
-        <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/teal_200</item>
-        <item name="colorSecondaryVariant">@color/teal_200</item>
-        <item name="colorOnSecondary">@color/black</item>
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
-        <!-- Customize your theme here. -->
+    <!-- 暗色主题：继承自相同的基础主题。 -->
+    <!-- 只覆盖需要变化的属性，通常是颜色和背景。 -->
+    <!-- 专门为你的全屏Activity定义的，应用的整体暗色主题 -->
+    <style name="Theme.Demo.Fullscreen" parent="Theme.Demo">
+        <!-- 设置一个纯黑色背景确保无任何干扰 -->
+        <item name="android:windowBackground">@color/black</item>
     </style>
 </resources>
